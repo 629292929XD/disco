@@ -1,1 +1,0 @@
-f'Dalvik/2.1.0 (Linux; U; Android {str(android_version)}; Xperia Z2 Build/{str(build)}{str(numbr)}) [FBAN/FB4A;FBAV/{str(application_version)};FBPN/com.facebook.katana;FBLC/en_US;FBBV/'+'123'+'6543'+';FBCR/'+'Tel'+'mex'+';FBMF/Sony;FBBD/Sony;FBDV/'+'Xpe'+'ria Z2'+';FBSV/7.1.1;FBCA/armeabi-v7a:armeabi;FBDM/'+'{density=1.5,width=540,height=960};'+f'FB_FW/1;]'
